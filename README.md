@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jhonnatan Dussán
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Front-end
 - 📫 How to reach me, +34 624452099
 
