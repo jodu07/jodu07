@@ -7,6 +7,7 @@
 jodu07/jodu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[CV - Jhonnatan Dussán - Angular Developer.pdf](https://github.com/user-attachments/files/20712222/CV.-.Jhonnatan.Dussan.-.Angular.Developer.pdf)
+[CV - Jhonnatan Dussán - Web Developer.pdf](https://github.com/user-attachments/files/20747963/CV.-.Jhonnatan.Dussan.-.Web.Developer.pdf)
+
 
 
