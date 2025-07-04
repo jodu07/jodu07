@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jhonnatan Dussán.
 - 👀 I’m interested in Web development.
-- 💞️ I’m looking to collaborate on Front-end.
+- 💞️ I’m looking to collaborate on Front-end Developer.
 - 📫 How to reach me, +34 624452099.
 
 <!---
