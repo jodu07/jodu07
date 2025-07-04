@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jhonnatan Dussán
-- 👀 I’m interested in Web development
-- 💞️ I’m looking to collaborate on Front-end
-- 📫 How to reach me, +34 624452099
+- 👋 Hi, I’m Jhonnatan Dussán.
+- 👀 I’m interested in Web development.
+- 💞️ I’m looking to collaborate on Front-end.
+- 📫 How to reach me, +34 624452099.
 
 <!---
 jodu07/jodu07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
