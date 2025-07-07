@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Jhonnatan Dussán.
 - 👀 I’m interested in Web development.
 - 💞️ I’m looking to collaborate on
-  Full-stack Developer - Angular - Java   Spring Booot - TypeScript.
+  Full-stack Developer.
+  Angular - Java - TypeScript -
+  Spring Boot
 - 📫 How to reach me, +34 624452099.
 
 <!---
