@@ -2,8 +2,7 @@
 - 👀 I’m interested in Web development.
 - 💞️ I’m looking to collaborate on
   Full-stack Developer.
-  Angular - Java - TypeScript -
-  Spring Boot
+  Angular - TypeScript - Java - Spring Boot
 - 📫 How to reach me, +34 624452099.
 
 <!---
