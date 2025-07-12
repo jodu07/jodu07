@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jhonnatan Dussán.
+- 👋 Hi, I’m Jhonnatan Dussán Cuéllar.
 - 👀 I’m interested in Web development.
 - 💞️ I’m looking to collaborate on
   Full-stack Developer.
